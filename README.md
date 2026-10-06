@@ -403,13 +403,13 @@
           <div class="stage-num">STAGE 1</div>
           <h4>知識習得（座学）</h4>
           <p>診断・思考・知識・実践の4MODULEを体系的に習得。各ルーブリックでレベル3以上が修了基準。</p>
-          <div class="stage-meta">3ヶ月 ／ 10万円</div>
+          <div class="stage-meta">3ヶ月 ／ 要相談</div>
         </div>
         <div class="stage-card">
           <div class="stage-num">STAGE 2</div>
           <h4>現場同行・講師研修生モデル</h4>
           <p>講師の視点・言葉・判断を目と耳で直接確認。同席記録シートを毎回提出し、思考の質を高めます。</p>
-          <div class="stage-meta">3〜6ヶ月 ／ 20万円（認定時全額返金）</div>
+          <div class="stage-meta">3〜6ヶ月 ／ 要相談（認定時全額返金予定）</div>
         </div>
         <div class="stage-card">
           <div class="stage-num">STAGE 3</div>
