@@ -499,7 +499,7 @@
             <div class="field"><label>お名前</label><input type="text" placeholder="例）山田 太郎" /></div>
             <div class="field"><label>メールアドレス</label><input type="email" placeholder="例）taro@example.com" /></div>
             <div class="field"><label>ご相談内容</label><textarea placeholder="現状・目的・制約など、わかる範囲でご記入ください。"></textarea></div>
-            <button class="btn primary" type="button">送信する</button>
+            <button class="btn primary" type="https://formspree.io/f/xzedzzno">送信する</button>
           </div>
         </div>
       </div>
