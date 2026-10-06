@@ -1,5 +1,5 @@
 [index_1.html](https://github.com/user-attachments/files/32886516/index_1.html)
-# kp-company-web<!doctype html>
+
 <html lang="ja">
 <head>
   <meta charset="utf-8" />
